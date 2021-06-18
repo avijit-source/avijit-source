@@ -2,6 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on open source projects
+-  codepen: https://codepen.io/chaosphere218
 - 📫 How to reach me : avijitch123@outlook.com 
 
 <!---
