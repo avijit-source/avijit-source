@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Avijit Chakraborty
-- 👀 I’m interested in web development
+- 👀 I’m interested in app development
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on open source projects
 -  codepen: https://codepen.io/chaosphere218
